@@ -88,19 +88,13 @@ Created workshops, CTF prep sessions, and educational cybersecurity videos.
 * Finalist — National Cyber Security Center Project Competition
 * Cyber Warriors CTF finalist, 9th ranking 
 
----
-
-## 📊 GitHub Stats
-
-![Humam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humamhajeer\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humamhajeer\&layout=compact)
 
 ---
 
 ## 📬 Contact
 
-📧 **Email:** [humamhajeer10@gmail.com](mailto:humamhajeer10@gmail.com)
-🔗 **LinkedIn:** linkedin.com/in/humam-hajeer
+📧 **Email:** [Humam_Hajeer@outlook.com](mailto:Humam_Hajeer@outlook.com)
+🔗 **LinkedIn:** https://www.linkedin.com/in/humam-hajeer-759b7724a/
 
 ---
 

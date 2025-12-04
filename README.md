@@ -1,41 +1,107 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, I'm Humam Hajeer
 
-Hello! I'm **Humam Hajeer**, a **Cybersecurity Specialist**, **Penetration Tester**, and **Cybersecurity Trainer**. I work on bridging the gap between theoretical knowledge and real-world application through my initiative **Cyber Bridge**, where I provide workshops, training, and awareness programs for students and professionals.
+**Cybersecurity Specialist • Blue/Red Teamer **
 
----
-
-## 🛡️ About Me
-
-* Penetration Tester & Ethical Hacker
-* Cybersecurity Instructor & Awareness Program Developer
-* Founder of **Cyber Bridge**
-* Collaborating with universities and institutions to deliver cybersecurity training
-* Experience in Web Pentesting, Social Engineering, and Advanced Security Techniques
+I’m passionate about cybersecurity, hands-on learning, and developing tools that strengthen threat detection, incident response, and secure development. I enjoy working across both offensive and defensive security, with strong motivation in penetration testing and SOC operations. My goal is to make a meaningful impact through training, research, and real-world security projects.
 
 ---
 
-## 🧰 Skills & Expertise
+## 🚀 About Me
 
-* **Penetration Testing**: Web, Network, Social Engineering
-* **Cybersecurity Training** (Workshops & Awareness Programs)
-* **Tools**: Burp Suite, Nmap, Wireshark, Metasploit, Scapy, SIEM basics
-* **Programming**: Python (AI + IDS packet analysis), Bash, PowerShell
-* **DFIR Knowledge**: ShimCache, BAM/DAM, FAT/exFAT Forensics
+* Cybersecurity student at Hashemite University (GPA: 3.37/4)
+* Interested in Pentesting, SOC Operations, DFIR, and Network Security
+* Hands‑on experience with Linux, Windows Security, and network traffic analysis
+* Strong communication, teamwork, and training abilities
 
 ---
 
-## 🚀 Current Projects
+## 🧰 Technical Skills
 
-* Building advanced cybersecurity tools using Python (AI + IDS)
-* Developing steganography & watermarking tools (Tkinter → PyQt5)
-* Creating CTF challenges using Wireshark
-* Designing cybersecurity presentations and awareness content
+### **Security & Defense**
+
+* SIEM (Splunk), Log Analysis, Windows/Linux Monitoring
+* DFIR, Network Forensics, Malware Basics
+* IDS/IPS, Active Directory Security
+
+### **Offensive Security**
+
+* Web & Network Pentesting
+* Reconnaissance, Enumeration, Exploitation
+* CTF Challenges (Top 20 finalist multiple times)
+
+### **Programming & Tools**
+
+* Python, HTML, CSS, JS, PHP
+* Nmap, Burp Suite, Wireshark, Metasploit, Scapy
+* Linux (Ubuntu/Kali), Windows Server
+
+---
+
+## 🏆 Certifications
+
+* CCNA — Cisco
+* CompTIA Security+
+* eJPT — Junior Penetration Tester
+* eCIR — Incident Responder
+* SEC450, SEC504 — SANS
+* CRTA — Red Team Analyst
+* DFE — Digital Forensics Essentials
+
+---
+
+## 📌 Projects
+
+### 🔐 **Advanced Multi‑Factor Authentication (MFA)**
+
+* Biometric Face ID + OTP + Email Verification
+* Multi‑layer secure authentication design
+
+### 🌐 **NET Pulse — Network Traffic Analyzer**
+
+* PCAP & live traffic analysis
+* Modular threat detection engine (Blacklist + IOCs + heuristics)
+* Web dashboard for real‑time monitoring
+
+---
+
+## 🎓 Experience
+
+### **Cybersecurity Instructor**
+
+Delivered practical workshops on Linux, networks, ethical hacking, and troubleshooting.
+
+### **Cyber Bridge Program — Green Circle**
+
+Hands‑on training in SOC, Pentesting, GRC, and incident response.
+
+### **Cyber‑ETO Team (Instructor & Content Creator)**
+
+Created workshops, CTF prep sessions, and educational cybersecurity videos.
+
+---
+
+## 🏅 Achievements
+
+* TryHackMe Top 1%
+* Top‑20 Finalist — NCSC CTF 2024 & 2025
+* Top‑10 — AAUctfv3 Cybersecurity CTF Finals
+* Finalist — National Cyber Security Center Project Competition
+* Cyber Warriors CTF finalist, 9th ranking 
+
+---
+
+## 📊 GitHub Stats
+
+![Humam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=humamhajeer\&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humamhajeer\&layout=compact)
 
 ---
 
 ## 📬 Contact
 
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-* **LinkedIn:** your-linkedin-url
+📧 **Email:** [humamhajeer10@gmail.com](mailto:humamhajeer10@gmail.com)
+🔗 **LinkedIn:** linkedin.com/in/humam-hajeer
 
-Feel free to explore my repositories, contribute, or reach out for collaborations! 🚀
+---
+
+⭐ *Thanks for visiting! Feel free to explore my projects or reach out for collaboration.*

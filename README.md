@@ -25,9 +25,7 @@
 <img src="https://img.shields.io/badge/HACK%20THE%20BOX-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HumamHR&style=flat-square&color=00FF9C&label=PROFILE+VIEWS"/>
+<br/>
 
 </div>
 
@@ -98,79 +96,7 @@ I am especially interested in the intersection of:
 
 ---
 
-## `SECURITY FOCUS`
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### BLUE TEAM
-
-`SOC Operations`
-
-`Threat Detection`
-
-`Threat Hunting`
-
-`SIEM Investigation`
-
-`Incident Response`
-
-`Digital Forensics`
-
-`Detection Engineering`
-
-</td>
-
-<td width="33%" valign="top">
-
-### RED TEAM
-
-`Penetration Testing`
-
-`Network Security`
-
-`Web Security`
-
-`Vulnerability Assessment`
-
-`Active Directory`
-
-`Privilege Escalation`
-
-`Security Research`
-
-</td>
-
-<td width="33%" valign="top">
-
-### ENGINEERING
-
-`Python Automation`
-
-`Security Tooling`
-
-`Network Analysis`
-
-`Security Monitoring`
-
-`Detection Rules`
-
-`Infrastructure Security`
-
-`Lab Architecture`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 # `01 // FLAGSHIP WORK`
 
@@ -190,7 +116,7 @@ A web-based cybersecurity platform designed for **live network analysis, offline
 | Area             | Function                           |
 | ---------------- | ---------------------------------- |
 | Live Analysis    | Traffic capture & analysis         |
-| PCAP             | Offline packet investigation       |
+| Offline          | Offline packet investigation       |
 | Threat Detection | Rule-based detection               |
 | IP Intelligence  | Geolocation, ASN, ISP & reputation |
 | Scanning         | Common TCP port discovery          |

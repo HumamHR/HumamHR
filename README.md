@@ -36,7 +36,7 @@
 ```yaml
 name: Humam Hajeer
 role: Cybersecurity Specialist | Blue/Red Teamer
-education: "B.Sc. Cybersecurity @ Hashemite University (GPA: 3.37/4)"
+education: "B.Sc. Cybersecurity @ Hashemite University"
 focus: [Penetration Testing, SOC Operations, DFIR, Network Security]
 currently_learning: "Advanced Threat Hunting & Incident Response"
 motto: "Secure by design, defend by default."

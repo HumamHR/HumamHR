@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Humam Hajeer</h1>
-<h3 align="center">Cybersecurity Specialist | Blue/Red Teamer | Aspiring SOC Analyst</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Humam%20Hajeer&fontSize=50&fontColor=00FF99&fontAlignY=35&desc=Cybersecurity%20Specialist%20%7C%20Blue%2FRed%20Teamer&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Threat+Detection;SOC+Operations+%7C+DFIR;Securing+Systems%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=Penetration+Testing+%7C+Threat+Detection;SOC+Operations+%7C+DFIR;Securing+Systems%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,87 +19,124 @@
   <a href="https://tryhackme.com/p/YOUR_PROFILE" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
   </a>
+  <a href="https://www.hackthebox.com/home/users/profile/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HumamHR&style=for-the-badge&color=00FF99&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Cybersecurity student at **Hashemite University** (GPA: 3.37/4)
+```yaml
+name: Humam Hajeer
+role: Cybersecurity Specialist | Blue/Red Teamer
+education: "B.Sc. Cybersecurity @ Hashemite University (GPA: 3.37/4)"
+focus: [Penetration Testing, SOC Operations, DFIR, Network Security]
+currently_learning: "Advanced Threat Hunting & Incident Response"
+motto: "Secure by design, defend by default."
+```
+
 - 🔐 Focused on **Penetration Testing**, **SOC Operations**, **DFIR**, and **Network Security**
 - 🛠️ Hands-on experience with **Linux**, **Windows Security**, and **network traffic analysis**
 - 🧠 Passionate about building tools that strengthen threat detection and incident response
 - 🤝 Strong communicator with experience in teamwork and technical training
-- 🎯 Goal: Making a real-world impact through security research, training, and hands-on projects
+- 🎯 Goal: making a real-world impact through security research, training, and hands-on projects
 
 ---
 
-### 🧰 Technical Skills
-
-**Security & Defense**
-
-<p>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-FF6600?style=flat-square" />
-</p>
-
-**Systems & Networking**
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-4B8BBE?style=flat-square" />
-</p>
-
-**Programming & Scripting**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🧰 Technical Arsenal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HumamHR&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumamHR&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,bash,python,powershell,mysql,git,docker,wireshark&theme=dark" />
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**🛡️ Security & Defense**
+- Wireshark
+- Nmap
+- Metasploit
+- Burp Suite
+- Splunk (SIEM)
+- Snort (IDS/IPS)
+
+</td>
+<td valign="top" width="33%">
+
+**💻 Systems & Networking**
+- Linux (Kali, Ubuntu)
+- Windows Server
+- TCP/IP & Network Analysis
+- Active Directory basics
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Scripting & Data**
+- Python
+- Bash
+- PowerShell
+- SQL
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HumamHR&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumamHR&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HumamHR&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HumamHR&theme=chartreuse-dark&hide_border=true&background=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumamHR&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" width="90%"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🔍 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Python, Linux |
-| 🛡️ **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Bash, Nmap |
-| 📊 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Splunk, SIEM |
+| 🔍 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Python` `Linux` |
+| 🛡️ **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Bash` `Nmap` |
+| 📊 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Splunk` `SIEM` |
 
 > _Replace the placeholders above with links to your actual repositories._
 
 ---
 
-### 📫 Let's Connect
+## 🏆 Certifications & Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Certification-Add%20Yours-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTF%20Rank-Add%20Yours-lightgrey?style=for-the-badge" />
+</p>
+
+> _Add badges here for CompTIA Security+, CEH, eJPT, TryHackMe rank, or any certs you hold._
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
   I'm always open to discussing cybersecurity projects, SOC/Blue Team opportunities, or CTF collaborations. Feel free to reach out!
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HumamHR&style=flat-square&color=blueviolet" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 </p>
-
-<p align="center">⭐️ From <a href="https://github.com/HumamHR">HumamHR</a></p>

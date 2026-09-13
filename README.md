@@ -1,256 +1,164 @@
-<!-- ========================================================= -->
+<!-- ============================================================= -->
 
-<!--                    HUMAM HAJEER                           -->
+<!--                  HUMAM HAJEER — GITHUB PROFILE                -->
 
-<!--              CYBERSECURITY ENGINEER                       -->
+<!-- ============================================================= -->
 
-<!-- ========================================================= -->
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Humam%20Hajeer&fontSize=48&fontColor=00FF99&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Blue%2FRed%20Teamer&descAlignY=58&descAlign=50" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Threat+Detection;SOC+Operations+%7C+DFIR;Securing+Systems%2C+One+Line+at+a+Time" alt="Typing SVG" /> <br>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:102A35,100:00FF9C&height=220&section=header&text=HUMAM%20HAJEER&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Blue%20Team%20%7C%20Red%20Team&descAlignY=60&descSize=18&descColor=00FF9C"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00FF9C&center=true&vCenter=true&width=700&lines=Security+Operations+%7C+DFIR+%7C+Threat+Detection;Penetration+Testing+%7C+Network+Security;Build.+Attack.+Detect.+Investigate.+Improve." alt="Typing SVG"/>
-
-<br/>
 
 <a href="https://github.com/HumamHR">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/humam-hajeer/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:humam_hajeer@outlook.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://tryhackme.com/">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF0000"/>
+<a href="https://tryhackme.com/p/Humam.HR">
+<img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=FF0000"/>
 </a>
 <a href="https://www.hackthebox.com/">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/HACK%20THE%20BOX-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=HumamHR&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS"/>
+<br/>
 
 </div>
 
 ---
 
-# `01 // ABOUT ME`
+## 🚀 About Me
 
-<table>
+```yaml
+name: Humam Hajeer
+role: Cybersecurity Specialist | Blue/Red Teamer
+education: "B.Sc. Cybersecurity @ Hashemite University (GPA: 3.37/4)"
+focus: [Penetration Testing, SOC Operations, DFIR, Network Security]
+currently_learning: "Advanced Threat Hunting & Incident Response"
+motto: "Secure by design, defend by default."
+```
+
+- 🔐 Focused on **Penetration Testing**, **SOC Operations**, **DFIR**, and **Network Security**
+- 🛠️ Hands-on experience with **Linux**, **Windows Security**, and **network traffic analysis**
+- 🧠 Passionate about building tools that strengthen threat detection and incident response
+- 🤝 Strong communicator with experience in teamwork and technical training
+- 🎯 Goal: making a real-world impact through security research, training, and hands-on projects
+
+---
+
+## 🧰 Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,bash,python,powershell,mysql,git,docker,wireshark&theme=dark" />
+</p>
+
+<table align="center">
 <tr>
+<td valign="top" width="33%">
 
-<td width="65%" valign="top">
-
-## Hi, I'm Humam 👋
-
-I'm a **Cybersecurity Engineer** focused on building practical security capabilities across both offensive and defensive security.
-
-My work spans:
-
-* 🛡️ **Security Operations & Threat Detection**
-* 🔎 **Digital Forensics & Incident Response**
-* ⚔️ **Penetration Testing & Offensive Security**
-* 🌐 **Network Security & Traffic Analysis**
-* 🏗️ **Security Engineering & Automation**
-* 🧪 **CTF & Security Research**
-
-I enjoy understanding attacks from the perspective of an attacker, then using that knowledge to improve detection, investigation, and defense.
-
-### Security Philosophy
-
-```text
-Understand the attack.
-        ↓
-Detect the behavior.
-        ↓
-Investigate the evidence.
-        ↓
-Strengthen the defense.
-```
-
-> **Build. Attack. Detect. Investigate. Improve.**
+**🛡️ Security & Defense**
+- Wireshark
+- Nmap
+- Metasploit
+- Burp Suite
+- Splunk (SIEM)
+- Snort (IDS/IPS)
 
 </td>
+<td valign="top" width="33%">
 
-<td width="35%" valign="top">
-
-```text
-┌──────────────────────────────┐
-│        SECURITY PROFILE      │
-├──────────────────────────────┤
-│ Role                         │
-│ Cybersecurity Engineer       │
-│                              │
-│ Education                    │
-│ B.Sc. Cybersecurity          │
-│ Hashemite University         │
-│                              │
-│ GPA                          │
-│ 3.37 / 4.00                  │
-│                              │
-│ Core Focus                   │
-│ SOC / DFIR                   │
-│ Red Team                     │
-│ Network Security             │
-│                              │
-│ Environment                  │
-│ Linux / Windows / AD         │
-│                              │
-│ Location                     │
-│ Jordan                       │
-└──────────────────────────────┘
-```
+**💻 Systems & Networking**
+- Linux (Kali, Ubuntu)
+- Windows Server
+- TCP/IP & Network Analysis
+- Active Directory basics
 
 </td>
+<td valign="top" width="33%">
 
+**⚙️ Scripting & Data**
+- Python
+- Bash
+- PowerShell
+- SQL
+
+</td>
 </tr>
 </table>
 
 ---
 
-# `02 // SECURITY DOMAIN`
-
-<div align="center">
-
-|            DOMAIN            | FOCUS                                                          |
-| :--------------------------: | :------------------------------------------------------------- |
-|       🛡️ **Blue Team**      | SOC Operations • SIEM • Detection Engineering • Threat Hunting |
-|          🔎 **DFIR**         | Incident Response • Windows Forensics • Evidence Analysis      |
-|        ⚔️ **Red Team**       | Web Security • Network Pentesting • Active Directory           |
-|    🌐 **Network Security**   | Traffic Analysis • IDS/IPS • PCAP Investigation                |
-|     ☁️ **Cloud Security**    | AWS • CloudTrail • IAM • Security Monitoring                   |
-| 🏗️ **Security Engineering** | Automation • Security Tools • Detection Workflows              |
-
-</div>
-
----
-
-# `03 // TECHNICAL STACK`
-
-### `OFFENSIVE SECURITY`
-
-<p>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLMap-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hashcat-1A1A1A?style=flat-square"/>
-<img src="https://img.shields.io/badge/John%20the%20Ripper-333333?style=flat-square"/>
-</p>
-
-### `DEFENSIVE SECURITY`
-
-<p>
-<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wazuh-3C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sigma-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Snort-EA4335?style=flat-square"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
-</p>
-
-### `DFIR`
-
-<p>
-<img src="https://img.shields.io/badge/Volatility-1F1F1F?style=flat-square"/>
-<img src="https://img.shields.io/badge/KAPE-333333?style=flat-square"/>
-<img src="https://img.shields.io/badge/FTK%20Imager-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Velociraptor-111111?style=flat-square"/>
-</p>
-
-### `NETWORKING`
-
-<p>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/IDS%2FIPS-0D1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-</p>
-
-### `DEVELOPMENT`
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scapy-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/NetworkX-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-# `04 // FEATURED PROJECTS`
+# `Project`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## ⚡ NetPulse
+## NetPulse
 
 ### Network Analysis & Threat Detection Platform
 
-A security-focused platform for **live traffic analysis, offline PCAP investigation, threat detection, network visualization, IP intelligence, and automated reporting**.
+A web-based cybersecurity platform designed for **live network analysis, offline PCAP investigation, threat detection, IP intelligence, and automated security reporting**.
 
-**Key Capabilities**
+### Capabilities
 
-```text
-Live Traffic Analysis
-Offline PCAP Investigation
-Rule-Based Threat Detection
-IP / IOC Intelligence
-Port Discovery
-Network Flow Visualization
-Automated Reporting
-```
+| Area             | Function                           |
+| ---------------- | ---------------------------------- |
+| Live Analysis    | Traffic capture & analysis         |
+| Offline          | Offline packet investigation       |
+| Threat Detection | Rule-based detection               |
+| IP Intelligence  | Geolocation, ASN, ISP & reputation |
+| Scanning         | Common TCP port discovery          |
+| Threat Intel     | IOC / reputation checks            |
+| Visualization    | Network flow mapping               |
+| Reporting        | Automated security reports         |
 
-**Technology**
+### Stack
 
 `Python` `Scapy` `PyShark` `Flask` `NetworkX` `Matplotlib`
 
 <br/>
 
 <a href="https://github.com/HumamHR/NetPulse">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/EXPLORE%20NETPULSE-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔐 MFAproject
+## MFAproject
 
 ### Multi-Factor Authentication Security Platform
 
-A web-based authentication project focused on **MFA workflows, OTP authentication, session security, authentication hardening, and secure web practices**.
+A web-based authentication project focused on **MFA, OTP workflows, authentication security, session management, and security hardening**.
 
-**Security Areas**
+### Security Areas
 
-```text
-MFA / OTP Authentication
-Session Security
-Rate Limiting
-Brute-Force Protection
-CSRF Protection
-Input Validation
-Secure Cookies
-Authentication Monitoring
-Secret Management
-```
+| Area           | Focus                                |
+| -------------- | ------------------------------------ |
+| Authentication | Secure login workflows               |
+| MFA            | OTP-based authentication             |
+| Sessions       | Session security                     |
+| Protection     | Rate limiting & brute-force controls |
+| Web Security   | CSRF & input validation              |
+| Cookies        | Secure cookie attributes             |
+| Monitoring     | Authentication events                |
+| Secrets        | Secret-management practices          |
 
-**Technology**
+### Stack
 
 `Python` `Web` `MFA` `OTP` `Security`
 
 <br/>
 
 <a href="https://github.com/HumamHR/MFAproject">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MFAPROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </td>
@@ -260,193 +168,66 @@ Secret Management
 
 ---
 
-# `05 // SECURITY LABS & RESEARCH`
 
-### 🧪 ELITE-STAR — Enterprise Security Lab
-
-Designed and operated a segmented enterprise-style environment to simulate realistic attack and defense scenarios.
-
-**Environment**
-
-```text
-Windows Server 2022
-├── Active Directory
-├── DNS
-└── AD CS
-
-Windows 10 Endpoints
-        │
-        ├── Security Monitoring
-        └── Endpoint Telemetry
-
-Debian
-└── Roundcube Webmail
-
-Kali Linux
-└── Adversary Simulation
-```
-
-**Security Focus**
-
-`Active Directory` `AD CS` `RCE` `Privilege Escalation` `Credential Access` `Detection Engineering` `Incident Response`
-
----
-
-# `06 // CERTIFICATIONS`
+# `CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-| Certification             | Area                                |
-| :------------------------ | :---------------------------------- |
-| 🛡️ **CompTIA Security+** | Cybersecurity Fundamentals          |
-| 🌐 **Cisco CCNA**         | Networking                          |
-| ⚔️ **eJPT**               | Penetration Testing                 |
-| 🔎 **eCIR**               | Incident Response                   |
-| 🎯 **TryHackMe SAL2**     | Security Operations & Investigation |
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="90%"
+alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-# `07 // CTF & COMPETITIONS`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    COMPETITION RECORD                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🥇  1st Place — NCSC Nashama Bootcamp                     │
-│                                                             │
-│  🏆  NCSC CTF 2024                                         │
-│      17th Place — Qualifications                           │
-│      Top 10 — Finals                                        │
-│                                                             │
-│  🏆  NCSC CTF 2025                                         │
-│      20th Place — Qualifications                           │
-│      Top 20 — Finals                                        │
-│                                                             │
-│  🧩  AAUctfv3                                              │
-│      7th Place — Qualifications                             │
-│      Top 10 — Finals                                        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `08 // SECURITY INTERESTS`
-
-<div align="center">
-
-`THREAT DETECTION`
-
-`INCIDENT RESPONSE`
-
-`DIGITAL FORENSICS`
-
-`PENETRATION TESTING`
-
-`ACTIVE DIRECTORY`
-
-`NETWORK SECURITY`
-
-`SIEM`
-
-`THREAT HUNTING`
-
-`CLOUD SECURITY`
-
-`SECURITY AUTOMATION`
-
-</div>
-
----
-
-# `09 // GITHUB ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HumamHR&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumamHR&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF&bg_color=0D1117" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=HumamHR&theme=dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="70%"/>
-
-</div>
-
----
-
-# `10 // CONTRIBUTION ACTIVITY`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# `11 // FEATURED REPOSITORIES`
+#  FEATURED REPOSITORIES
 
 <div align="center">
 
 <a href="https://github.com/HumamHR/NetPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=NetPulse&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=NetPulse&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C"/>
 </a>
 
 <a href="https://github.com/HumamHR/MFAproject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=MFAproject&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&bg_color=0D1117"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=MFAproject&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C"/>
 </a>
 
 </div>
 
 ---
 
-# `12 // CURRENTLY FOCUSING ON`
-
-```text
-[+] Advanced SOC Operations
-[+] Digital Forensics & Incident Response
-[+] Active Directory Security
-[+] Detection Engineering
-[+] Penetration Testing
-[+] Cloud Security
-[+] Security Automation
-[+] Building Practical Security Tools
-```
-
----
-
-# `13 // LET'S CONNECT`
+# Let's Connect
 
 <div align="center">
 
-### Interested in cybersecurity, security engineering, or technical collaboration?
+<h3>Let's build something secure.</h3>
 
-I'm open to **cybersecurity opportunities, SOC roles, security research, CTF initiatives, and technical projects.**
+<p>
+Open to cybersecurity opportunities, security research,<br/>
+SOC collaboration, technical projects, and CTF initiatives.
+</p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/humam-hajeer/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:humam_hajeer@outlook.com">
-<img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/HumamHR">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:203a43,100:0B0F14&height=120&section=footer"/>
-
 </div>
+
+<br/>
+
+<div align="center">
+
+

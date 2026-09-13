@@ -4,20 +4,10 @@
 
 <!-- ============================================================= -->
 
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Humam%20Hajeer&fontSize=48&fontColor=00FF99&fontAlignY=38&desc=Cybersecurity%20Specialist%20%7C%20Blue%2FRed%20Teamer&descAlignY=58&descAlign=50" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Threat+Detection;SOC+Operations+%7C+DFIR;Securing+Systems%2C+One+Line+at+a+Time" alt="Typing SVG" /> <br>
 
-<img src="./assets/github-hero.png" width="100%" alt="Humam Hajeer — Cybersecurity Engineer"/>
 
-<br/>
 
-<h3>CYBERSECURITY ENGINEER · SOC · DFIR · OFFENSIVE SECURITY</h3>
-
-<p>
-I build security tools, simulate real-world attack paths, investigate evidence,<br/>
-and turn security knowledge into practical engineering.
-</p>
-
-<br/>
 
 <a href="https://github.com/HumamHR">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
@@ -599,7 +589,7 @@ alt="GitHub Activity Graph"
 
 ---
 
-# `10 // CONTRIBUTION ACTIVITY`
+# `CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -613,37 +603,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# `11 // SECURITY INTERESTS`
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">THREAT<br/>DETECTION</td>
-<td align="center">DFIR</td>
-<td align="center">SOC</td>
-<td align="center">NETWORK<br/>SECURITY</td>
-<td align="center">PENETRATION<br/>TESTING</td>
-
-</tr>
-
-<tr>
-
-<td align="center">ACTIVE<br/>DIRECTORY</td>
-<td align="center">AD CS</td>
-<td align="center">SECURITY<br/>AUTOMATION</td>
-<td align="center">DETECTION<br/>ENGINEERING</td>
-<td align="center">SECURITY<br/>RESEARCH</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# `12 // FEATURED REPOSITORIES`
+#  FEATURED REPOSITORIES
 
 <div align="center">
 
@@ -659,7 +619,7 @@ alt="GitHub Contribution Snake"
 
 ---
 
-# `13 // CONNECT`
+# Let's Connect
 
 <div align="center">
 
@@ -672,11 +632,11 @@ SOC collaboration, technical projects, and CTF initiatives.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/humam-hajeer/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:humam_hajeer@outlook.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -690,35 +650,4 @@ SOC collaboration, technical projects, and CTF initiatives.
 
 <div align="center">
 
-```text
-$ whoami
 
-humam-hajeer
-
-$ mission
-
-understand_attacks()
-detect_threats()
-investigate_evidence()
-build_better_defenses()
-
-$ status
-
-[+] Always learning
-[+] Always building
-[+] Always improving
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,35:123B4A,70:0B1F2A,100:06090F&height=130&section=footer"
-width="100%"
-alt="Footer"
-/>
-
-</div>

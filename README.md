@@ -31,72 +31,66 @@
 
 ---
 
-## `ABOUT`
+## 🚀 About Me
 
-<table>
-<tr>
-
-<td width="63%" valign="top">
-
-### Humam Hajeer
-
-Cybersecurity engineer focused on **security operations, digital forensics, incident response, penetration testing, and network security**.
-
-My approach combines three perspectives:
-
-**Offensive Security**
-Understand how attackers gain access, move through environments, and exploit weaknesses.
-
-**Defensive Security**
-Detect malicious behavior, investigate telemetry, preserve evidence, and strengthen defenses.
-
-**Security Engineering**
-Build practical tools, automation, detection workflows, and security-focused systems.
-
-I am especially interested in the intersection of:
-
-`OFFENSIVE SECURITY` × `THREAT DETECTION` × `DFIR`
-
-> **Build. Attack. Detect. Investigate. Improve.**
-
-</td>
-
-<td width="37%" valign="top">
-
-```text
-┌─────────────────────────────┐
-│          PROFILE            │
-├─────────────────────────────┤
-│ Name                        │
-│ Humam Hajeer                │
-│                             │
-│ Role                        │
-│ Cybersecurity Engineer      │
-│                             │
-│ Education                   │
-│ B.Sc. Cybersecurity         │
-│ Hashemite University        │
-│                             │
-│ GPA                         │
-│ 3.37 / 4.00                 │
-│                             │
-│ Focus                       │
-│ SOC / DFIR / Red Team       │
-│ Network Security            │
-│                             │
-│ Location                    │
-│ Jordan                      │
-└─────────────────────────────┘
+```yaml
+name: Humam Hajeer
+role: Cybersecurity Specialist | Blue/Red Teamer
+education: "B.Sc. Cybersecurity @ Hashemite University (GPA: 3.37/4)"
+focus: [Penetration Testing, SOC Operations, DFIR, Network Security]
+currently_learning: "Advanced Threat Hunting & Incident Response"
+motto: "Secure by design, defend by default."
 ```
 
-</td>
+- 🔐 Focused on **Penetration Testing**, **SOC Operations**, **DFIR**, and **Network Security**
+- 🛠️ Hands-on experience with **Linux**, **Windows Security**, and **network traffic analysis**
+- 🧠 Passionate about building tools that strengthen threat detection and incident response
+- 🤝 Strong communicator with experience in teamwork and technical training
+- 🎯 Goal: making a real-world impact through security research, training, and hands-on projects
 
+---
+
+## 🧰 Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,bash,python,powershell,mysql,git,docker,wireshark&theme=dark" />
+</p>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**🛡️ Security & Defense**
+- Wireshark
+- Nmap
+- Metasploit
+- Burp Suite
+- Splunk (SIEM)
+- Snort (IDS/IPS)
+
+</td>
+<td valign="top" width="33%">
+
+**💻 Systems & Networking**
+- Linux (Kali, Ubuntu)
+- Windows Server
+- TCP/IP & Network Analysis
+- Active Directory basics
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Scripting & Data**
+- Python
+- Bash
+- PowerShell
+- SQL
+
+</td>
 </tr>
 </table>
 
 ---
-
-
 
 # `Project`
 

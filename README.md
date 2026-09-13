@@ -91,6 +91,14 @@ motto: "Secure by design, defend by default."
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HumamHR&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -106,21 +114,62 @@ motto: "Secure by design, defend by default."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumamHR&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" width="90%"/>
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HumamHR/HumamHR/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</p>
+
+> _This animated snake eats your contribution graph — it needs a one-time GitHub Action setup. See **snake-setup.yml** below, or ask me and I'll walk you through installing it._
+
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔍 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Python` `Linux` |
-| 🛡️ **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Bash` `Nmap` |
-| 📊 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | `Splunk` `SIEM` |
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Python` `Linux` `Networking`
+
+</td>
+<td width="50%">
+
+### 🛡️ [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Bash` `Nmap` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Splunk` `SIEM` `Detection`
+
+</td>
+<td width="50%">
+
+### 🕵️ [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`DFIR` `Forensics` `Python`
+
+</td>
+</tr>
+</table>
 
 > _Replace the placeholders above with links to your actual repositories._
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏅 Certifications & Achievements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certification-Add%20Yours-lightgrey?style=for-the-badge" />
@@ -128,6 +177,57 @@ motto: "Secure by design, defend by default."
 </p>
 
 > _Add badges here for CompTIA Security+, CEH, eJPT, TryHackMe rank, or any certs you hold._
+
+---
+
+<details>
+<summary>🐍 <b>How to activate the contribution snake animation</b> (click to expand)</summary>
+
+<br>
+
+The snake animation needs a one-time GitHub Action setup since GitHub can't run it on its own:
+
+1. In your `HumamHR/HumamHR` repo, go to **Settings → Actions → General** and enable **"Read and write permissions"** for the `GITHUB_TOKEN`.
+2. Create a folder path `.github/workflows/` in that repo.
+3. Add a file there named `snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually too
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HumamHR
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Commit it. The action runs on push and then daily, generating the animated SVG that the README above already links to. No further steps needed.
+
+</details>
 
 ---
 

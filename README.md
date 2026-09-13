@@ -183,22 +183,6 @@ alt="GitHub Contribution Snake"
 
 ---
 
-#  FEATURED REPOSITORIES
-
-<div align="center">
-
-<a href="https://github.com/HumamHR/NetPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=NetPulse&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C"/>
-</a>
-
-<a href="https://github.com/HumamHR/MFAproject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HumamHR&repo=MFAproject&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C"/>
-</a>
-
-</div>
-
----
-
 # Let's Connect
 
 <div align="center">

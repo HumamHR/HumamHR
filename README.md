@@ -1,35 +1,37 @@
-<!-- ========================================================= -->
+<!-- ============================================================= -->
 
-<!--                    HUMAM HAJEER README                    -->
+<!--                   HUMAM HAJEER — README                      -->
 
-<!-- ========================================================= -->
+<!-- ============================================================= -->
 
 <div align="center">
 
-<!-- HERO IMAGE
-     Upload the generated image to:
-     assets/github-hero.png
--->
-
-<img src="./assets/github-hero.png" width="100%" alt="Humam Hajeer Cybersecurity"/>
+<img src="./assets/github-hero.png" width="100%" alt="Humam Hajeer — Cybersecurity Engineer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=CYBERSECURITY+ENGINEER;SOC+%7C+DFIR+%7C+OFFENSIVE+SECURITY;THREAT+DETECTION+%7C+INCIDENT+RESPONSE;NETWORK+SECURITY+%7C+SECURITY+RESEARCH;BUILDING+TOOLS+THAT+FIND+PROBLEMS+BEFORE+ATTACKERS+DO." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=950&lines=CYBERSECURITY+ENGINEER;SOC+%7C+DFIR+%7C+OFFENSIVE+SECURITY;THREAT+DETECTION+%7C+INCIDENT+RESPONSE;NETWORK+SECURITY+%7C+SECURITY+RESEARCH;BUILDING+TOOLS+THAT+FIND+PROBLEMS+BEFORE+ATTACKERS+DO." alt="Cybersecurity typing animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/HumamHR">
-  <img src="https://img.shields.io/badge/GitHub-HumamHR-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/GitHub-HumamHR-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </a>
+
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
+
 <a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+
 <a href="https://tryhackme.com/">
-  <img src="https://img.shields.io/badge/TryHackMe-Profile-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/TryHackMe-Labs-0D1117?style=for-the-badge&logo=tryhackme&logoColor=FF0000"/>
+</a>
+
+<a href="https://www.hackthebox.com/">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Labs-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
 <br/><br/>
@@ -40,100 +42,110 @@
 
 ---
 
-# `01 // ABOUT ME`
+## `whoami`
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Humam Hajeer
+
+Cybersecurity Engineer focused on **SOC Operations, DFIR, Offensive Security, Network Security, and Security Engineering**.
+
+I combine offensive and defensive security to understand how attacks work, identify the evidence they leave behind, and build stronger detection and response capabilities.
+
+My interests sit at the intersection of:
+
+`Attack Simulation` × `Threat Detection` × `Incident Response` × `Security Engineering`
+
+> **Build. Defend. Investigate. Improve.**
+
+</td>
+
+<td width="40%" valign="top">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                         WHOAMI                               │
-├──────────────────────────────────────────────────────────────┤
-│ Name       : Humam Hajeer                                    │
-│ Role       : Cybersecurity Engineer                          │
-│ Focus      : SOC | DFIR | Offensive Security | Networking   │
-│ Education  : B.Sc. Cybersecurity @ Hashemite University      │
-│ GPA        : 3.37 / 4.00                                     │
-│ Location   : Jordan                                          │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────┐
+│           PROFILE            │
+├──────────────────────────────┤
+│ Role                         │
+│ Cybersecurity Engineer       │
+│                              │
+│ Education                    │
+│ B.Sc. Cybersecurity          │
+│ Hashemite University         │
+│                              │
+│ GPA                          │
+│ 3.37 / 4.00                  │
+│                              │
+│ Focus                        │
+│ SOC / DFIR / Red Team        │
+│ Network Security             │
+│                              │
+│ Based in                     │
+│ Jordan                       │
+└──────────────────────────────┘
 ```
 
-I am a cybersecurity engineer focused on **defensive security, offensive security, digital forensics, incident response, and network security**.
-
-My work combines **security operations, attack simulation, investigation, automation, and security engineering**. I enjoy turning security concepts into practical tools, realistic labs, detection logic, and repeatable investigation workflows.
-
-> **I build things that find problems before attackers do.**
-
-### Core Focus
-
-* Threat Detection & Hunting
-* SOC Operations
-* Incident Response & DFIR
-* Penetration Testing
-* Network Security
-* Active Directory Security
-* Security Automation
-* Security Tool Development
+</td>
+</tr>
+</table>
 
 ---
 
-# `02 // SECURITY MINDSET`
+# `01 // WHAT I DO`
 
-```text
-                    ATTACK
-                      │
-                      ▼
-             ┌─────────────────┐
-             │  Initial Access  │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │   Execution      │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Privilege       │
-             │ Escalation      │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Lateral         │
-             │ Movement        │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Impact / Goal    │
-             └────────┬────────┘
-                      │
-                      ▼
-                 DETECTION
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ Investigate      │
-             ├─────────────────┤
-             │ Contain          │
-             ├─────────────────┤
-             │ Eradicate        │
-             ├─────────────────┤
-             │ Recover          │
-             └─────────────────┘
-```
+<table>
+<tr>
+<td width="33%" align="center">
 
-I approach cybersecurity from **both sides of the problem**:
+### BLUE TEAM
 
-**Red Team mindset** → understand how attacks happen.
+Threat Detection
+Threat Hunting
+SOC Operations
+SIEM Investigation
+Incident Response
+DFIR
+Detection Engineering
 
-**Blue Team mindset** → detect, investigate, contain, and prevent them.
+</td>
 
-**Engineering mindset** → build systems that make security more scalable and repeatable.
+<td width="33%" align="center">
+
+### RED TEAM
+
+Penetration Testing
+Web Security
+Network Security
+Vulnerability Assessment
+Active Directory
+Privilege Escalation
+Exploit Analysis
+
+</td>
+
+<td width="33%" align="center">
+
+### SECURITY ENGINEERING
+
+Python Automation
+Security Tooling
+Network Analysis
+Security Monitoring
+Detection Rules
+Infrastructure Hardening
+Lab Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `03 // TECHNICAL ARSENAL`
+# `02 // TECHNICAL ARSENAL`
 
-### Security Operations
+### Security Operations & Detection
 
 <p>
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
@@ -141,15 +153,15 @@ I approach cybersecurity from **both sides of the problem**:
 <img src="https://img.shields.io/badge/Snort-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/Sigma-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-EF4444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Incident%20Response-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/DFIR-0F766E?style=flat-square"/>
 </p>
 
 ### Offensive Security
 
 <p>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
 <img src="https://img.shields.io/badge/Nmap-2D3748?style=flat-square"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLMap-111827?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hashcat-101010?style=flat-square"/>
 </p>
@@ -170,12 +182,12 @@ I approach cybersecurity from **both sides of the problem**:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### Programming & Automation
+### Development & Automation
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -187,68 +199,84 @@ I approach cybersecurity from **both sides of the problem**:
 
 ---
 
-# `04 // FEATURED PROJECTS`
+# `03 // FLAGSHIP PROJECTS`
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## NetPulse
+## `NetPulse`
 
-**Network Analysis & Threat Detection Platform**
+### Network Analysis & Threat Detection Platform
 
-A web-based cybersecurity platform for **network traffic analysis, PCAP investigation, threat detection, IP intelligence, and security reporting**.
+A web-based cybersecurity platform built for **network traffic analysis, PCAP investigation, threat detection, IP intelligence, and security reporting**.
 
-### Capabilities
+**Core capabilities**
 
 ```text
-✓ Live Traffic Analysis
-✓ Offline PCAP Analysis
-✓ IP Intelligence
-✓ Port Scanning
-✓ Threat Reputation
-✓ Rule-Based IDS
-✓ Network Visualization
-✓ Automated Reporting
+LIVE ANALYSIS
+├── Traffic Capture
+├── Packet Analysis
+└── Security Reporting
+
+OFFLINE ANALYSIS
+├── PCAP Investigation
+├── HTTP Object Extraction
+├── Rule-Based Detection
+└── Report Generation
+
+THREAT INTELLIGENCE
+├── IP Intelligence
+├── Reputation Checks
+└── Blacklist / IOC Analysis
 ```
 
-### Stack
+**Stack**
 
-`Python` `Scapy` `PyShark` `NetworkX` `Flask` `Matplotlib`
+`Python` `Scapy` `PyShark` `Flask` `NetworkX` `Matplotlib`
+
+<br/>
 
 <a href="https://github.com/HumamHR/NetPulse">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE%20NETPULSE-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## MFAproject
+## `MFAproject`
 
-**Multi-Factor Authentication Security Platform**
+### Multi-Factor Authentication Platform
 
-A web-based authentication project focused on **MFA workflows, OTP authentication, session protection, and secure authentication design**.
+A web-based security project focused on **multi-factor authentication, OTP workflows, authentication security, session protection, and defensive hardening**.
 
-### Security Areas
+**Security areas**
 
 ```text
-✓ MFA / OTP
-✓ Authentication
-✓ Session Management
-✓ Account Protection
-✓ Input Validation
-✓ Security Hardening
-✓ Authentication Monitoring
+AUTHENTICATION
+├── Password Authentication
+├── OTP / MFA
+├── Session Security
+└── Account Protection
+
+HARDENING
+├── Rate Limiting
+├── CSRF Protection
+├── Input Validation
+├── Secure Cookies
+└── Secret Management
 ```
 
-### Stack
+**Stack**
 
 `Python` `Web` `MFA` `OTP` `Security`
 
+<br/>
+
 <a href="https://github.com/HumamHR/MFAproject">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MFAPROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
@@ -258,39 +286,42 @@ A web-based authentication project focused on **MFA workflows, OTP authenticatio
 
 ---
 
-# `05 // ELITE-STAR`
+# `04 // ELITE-STAR`
 
-## Enterprise Adversary Simulation & Defense Lab
+## Enterprise Adversary Simulation Lab
 
-A segmented enterprise-style cybersecurity lab designed to simulate realistic attack chains and investigate the corresponding security telemetry.
+A segmented enterprise-style environment designed to simulate realistic attacks across **Windows, Active Directory, Linux services, web applications, identity infrastructure, and SIEM telemetry**.
 
-### Architecture
+### Lab Architecture
 
 ```text
-                         ┌──────────────────────┐
-                         │    Windows Server    │
-                         │    AD / DNS / AD CS  │
-                         └──────────┬───────────┘
-                                    │
-                     ┌──────────────┼──────────────┐
-                     │              │              │
-                     ▼              ▼              ▼
-                Windows 10      Windows 10      Linux
-                 Endpoint         Endpoint      Services
-                     │              │              │
-                     └──────────────┼──────────────┘
+                           ┌──────────────────────┐
+                           │   WINDOWS SERVER     │
+                           │   AD / DNS / AD CS   │
+                           └──────────┬───────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+             ▼                        ▼                        ▼
+      ┌────────────┐          ┌────────────┐          ┌────────────┐
+      │ Windows 10 │          │ Windows 10 │          │   Linux    │
+      │ Endpoint   │          │ Endpoint   │          │  Services  │
+      └─────┬──────┘          └─────┬──────┘          └─────┬──────┘
+            │                       │                       │
+            └───────────────────────┼───────────────────────┘
                                     │
                                     ▼
-                              SIEM / Logging
-                                    ▲
-                                    │
-                             ┌──────┴──────┐
-                             │ Kali Linux  │
-                             │  Attacker   │
-                             └─────────────┘
+                             ┌──────────────┐
+                             │ SIEM / Logs  │
+                             └───────▲──────┘
+                                     │
+                             ┌───────┴──────┐
+                             │  KALI LINUX  │
+                             │   ATTACKER   │
+                             └──────────────┘
 ```
 
-### Attack Simulation
+### Attack → Evidence → Detection
 
 ```text
 Initial Access
@@ -308,21 +339,29 @@ Lateral Movement
 Active Directory Attack Paths
       ↓
 AD CS Escalation
+      ↓
+────────────────────────
+      ↓
+LOG COLLECTION
+      ↓
+THREAT DETECTION
+      ↓
+INVESTIGATION
+      ↓
+MITIGATION
 ```
 
-### Defensive Investigation
-
-Security telemetry was collected and investigated across:
+### Security Telemetry
 
 `Windows Event Logs` · `PowerShell` · `Sysmon` · `Web Logs` · `Network Traffic` · `SIEM`
 
-The lab was built to connect:
+The lab was designed around a complete security lifecycle:
 
-**Attack → Evidence → Detection → Investigation → Mitigation**
+**Simulate → Detect → Investigate → Respond → Harden**
 
 ---
 
-# `06 // CERTIFICATIONS`
+# `05 // CERTIFICATIONS`
 
 <div align="center">
 
@@ -330,32 +369,23 @@ The lab was built to connect:
 <img src="https://img.shields.io/badge/Security%2B-Certified-EA4335?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/eJPT-Certified-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/eCIR-Certified-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SAL2-Security%20Analyst-00FF9C?style=for-the-badge&logo=tryhackme&logoColor=black"/>
+<img src="https://img.shields.io/badge/SAL2-Completed-00FF9C?style=for-the-badge&logo=tryhackme&logoColor=black"/>
 
 </div>
 
-### Certification Focus
+### Certification Areas
 
-```text
-CCNA
-└── Networking / Routing / Switching
-
-Security+
-└── Core Cybersecurity
-
-eJPT
-└── Penetration Testing
-
-eCIR
-└── Incident Response
-
-SAL2
-└── Security Operations / Investigation
-```
+| Certification         | Primary Focus                     |
+| --------------------- | --------------------------------- |
+| **CCNA**              | Networking, routing, switching    |
+| **CompTIA Security+** | Core cybersecurity                |
+| **eJPT**              | Penetration testing               |
+| **eCIR**              | Incident response                 |
+| **SAL2**              | Security analysis & investigation |
 
 ---
 
-# `07 // CTF & CYBERSECURITY ACHIEVEMENTS`
+# `06 // CTF & CYBERSECURITY ACHIEVEMENTS`
 
 <table>
 <tr>
@@ -388,9 +418,9 @@ SAL2
 
 ### NCSC Nashama Bootcamp
 
-<img src="https://img.shields.io/badge/%231%20Ranked-Bootcamp-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%231-Ranked-00FF9C?style=for-the-badge"/>
 
-Cybersecurity training & practical security operations
+Cybersecurity training & hands-on security operations
 
 </td>
 
@@ -409,122 +439,124 @@ Challenge design, testing, validation & participant support
 
 ---
 
-# `08 // SECURITY DOMAINS`
+# `07 // SECURITY DOMAINS`
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│ BLUE TEAM                                                   │
-├─────────────────────────────────────────────────────────────┤
-│ SOC Operations                                              │
-│ SIEM Investigation                                          │
-│ Threat Detection                                            │
-│ Threat Hunting                                              │
-│ Incident Response                                           │
-│ Digital Forensics                                           │
-│ Detection Engineering                                       │
-└─────────────────────────────────────────────────────────────┘
+BLUE TEAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Threat Detection        ████████████████████
+Incident Response       ███████████████████░
+SIEM Investigation      ██████████████████░░
+Threat Hunting          █████████████████░░░
+DFIR                    ████████████████░░░░
+Detection Engineering   ████████████████░░░░
 
-┌─────────────────────────────────────────────────────────────┐
-│ RED TEAM                                                    │
-├─────────────────────────────────────────────────────────────┤
-│ Network Penetration Testing                                 │
-│ Web Application Security                                    │
-│ Vulnerability Assessment                                    │
-│ Active Directory Security                                   │
-│ Privilege Escalation                                        │
-│ Exploit Analysis                                            │
-└─────────────────────────────────────────────────────────────┘
 
-┌─────────────────────────────────────────────────────────────┐
-│ SECURITY ENGINEERING                                        │
-├─────────────────────────────────────────────────────────────┤
-│ Security Automation                                         │
-│ Python Tool Development                                     │
-│ Network Analysis                                            │
-│ Security Monitoring                                         │
-│ Detection Rules                                             │
-│ Infrastructure Hardening                                    │
-└─────────────────────────────────────────────────────────────┘
+OFFENSIVE SECURITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Network Pentesting      ███████████████████░
+Web Security            ██████████████████░░
+Vulnerability Research  █████████████████░░░
+Active Directory        ████████████████░░░░
+
+
+SECURITY ENGINEERING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Python Automation       ███████████████████░
+Network Analysis        ██████████████████░░
+Security Tooling        █████████████████░░░
+Infrastructure Security ████████████████░░░░
 ```
 
 ---
 
-# `09 // CURRENTLY LEARNING`
+# `08 // CURRENTLY EXPLORING`
 
-```yaml
-threat_hunting:
-  - Advanced Detection Engineering
-  - MITRE ATT&CK
-  - Sigma Rules
-  - Behavioral Detection
-  - Threat Intelligence
+<table>
+<tr>
 
-incident_response:
-  - Windows Forensics
-  - Memory Analysis
-  - Timeline Analysis
-  - Malware Triage
-  - DFIR Workflows
+<td width="33%" valign="top">
 
-identity_security:
-  - Active Directory
-  - Kerberos
-  - NTLM
-  - AD CS
-  - Entra ID
+### Threat Hunting
 
-cloud_security:
-  - AWS CloudTrail
-  - IAM Security
-  - Cloud Monitoring
-  - Cloud Incident Response
-```
+`MITRE ATT&CK`
+`Sigma`
+`Behavioral Detection`
+`Threat Intelligence`
+`Detection Engineering`
+
+</td>
+
+<td width="33%" valign="top">
+
+### DFIR
+
+`Windows Forensics`
+`Memory Analysis`
+`Timeline Analysis`
+`Malware Triage`
+`Incident Response`
+
+</td>
+
+<td width="33%" valign="top">
+
+### Identity & Cloud
+
+`Active Directory`
+`Kerberos`
+`NTLM`
+`AD CS`
+`Entra ID`
+`AWS CloudTrail`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# `10 // SECURITY PHILOSOPHY`
-
-<div align="center">
+# `09 // HOW I APPROACH SECURITY`
 
 ```text
-             ┌─────────────────────────┐
-             │   SECURITY IS A LOOP    │
-             └────────────┬────────────┘
-                          │
-              ┌───────────▼───────────┐
-              │        BUILD          │
-              └───────────┬───────────┘
-                          │
-              ┌───────────▼───────────┐
-              │        TEST           │
-              └───────────┬───────────┘
-                          │
-              ┌───────────▼───────────┐
-              │       ATTACK          │
-              └───────────┬───────────┘
-                          │
-              ┌───────────▼───────────┐
-              │       DETECT          │
-              └───────────┬───────────┘
-                          │
-              ┌───────────▼───────────┐
-              │     INVESTIGATE       │
-              └───────────┬───────────┘
-                          │
-              ┌───────────▼───────────┐
-              │       IMPROVE         │
-              └───────────┬───────────┘
-                          │
-                          └──────► BUILD
+                     ┌───────────────┐
+                     │    BUILD      │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │     TEST      │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    ATTACK     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    DETECT     │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │  INVESTIGATE  │
+                     └───────┬───────┘
+                             │
+                             ▼
+                     ┌───────────────┐
+                     │    IMPROVE    │
+                     └───────┬───────┘
+                             │
+                             └──────────────► BUILD
 ```
 
-### **Understand the attack. Detect the signal. Investigate the evidence. Improve the defense.**
-
-</div>
+> **Understand the attack. Detect the signal. Investigate the evidence. Improve the defense.**
 
 ---
 
-# `11 // GITHUB ANALYTICS`
+# `10 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -538,27 +570,27 @@ cloud_security:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HumamHR&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HumamHR&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-# `12 // CONTRIBUTION GRAPH`
+# `11 // CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-# `13 // RESEARCH & INTERESTS`
+# `12 // RESEARCH INTERESTS`
 
 ```text
 [+] Threat Detection
-[+] Security Operations
+[+] SOC Operations
 [+] Digital Forensics
 [+] Incident Response
 [+] Active Directory Security
@@ -569,15 +601,21 @@ cloud_security:
 [+] Cybersecurity Research
 ```
 
-I am especially interested in the intersection between:
+My strongest interest is the space where:
 
-**Offensive Security × Detection Engineering × Incident Response**
-
-That is where understanding attacker behavior becomes measurable defensive capability.
+```text
+OFFENSIVE SECURITY
+        +
+THREAT DETECTION
+        +
+INCIDENT RESPONSE
+        =
+STRONGER SECURITY ENGINEERING
+```
 
 ---
 
-# `14 // LET'S CONNECT`
+# `13 // LET'S CONNECT`
 
 <div align="center">
 
@@ -605,13 +643,21 @@ That is where understanding attacker behavior becomes measurable defensive capab
 
 ```text
 $ whoami
+
 Humam Hajeer
 
 $ mission
-Build. Defend. Investigate. Improve.
+
+Build.
+Defend.
+Investigate.
+Improve.
 
 $ status
-Always learning. Always building.
+
+Always learning.
+Always building.
+Always improving.
 ```
 
 </div>
@@ -620,6 +666,6 @@ Always learning. Always building.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,35:123B4A,70:0B1F2A,100:06090F&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,30:123B4A,65:0B1F2A,100:06090F&height=140&section=footer" width="100%" alt="Footer"/>
 
 </div>

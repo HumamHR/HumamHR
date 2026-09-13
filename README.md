@@ -80,11 +80,44 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| 🔍 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Python, Linux |
-| 🛡️ **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Bash, Nmap |
-| 📊 **[Project Name](https://github.com/HumamHR/repo-link)** | Short description of what this security tool/project does | Splunk, SIEM |
+<table>
+<tr>
+<td width="50%">
+
+#### 🔍 [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Python` `Linux` `Networking`
+
+</td>
+<td width="50%">
+
+#### 🛡️ [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Bash` `Nmap` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 📊 [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`Splunk` `SIEM` `Detection`
+
+</td>
+<td width="50%">
+
+#### 🕵️ [Project Name](https://github.com/HumamHR/repo-link)
+Short description of what this security tool/project does — the problem it solves and why it matters.
+
+`DFIR` `Forensics` `Python`
+
+</td>
+</tr>
+</table>
 
 > _Replace the placeholders above with links to your actual repositories._
 
